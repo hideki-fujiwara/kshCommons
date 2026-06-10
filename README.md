@@ -11,6 +11,7 @@ Korn Shell (ksh) 用の汎用ユーティリティスクリプト集です。
 | [compare_folders_content.ksh](src/compare_folders_content.ksh) | 2つのフォルダーをファイル内容（バイト列）で再帰的に比較し、差異をレポート出力 | [詳細](docs/compare_folders_content.md) |
 | [copy_date_files.ksh](src/copy_date_files.ksh) | 日付フォルダー内のファイルをコピー先へ転送し、上書き時は自動バックアップ | [詳細](docs/copy_date_files.md) |
 | [delete_empty_dirs.ksh](src/delete_empty_dirs.ksh) | 指定フォルダー配下の空フォルダーを再帰的に削除 | [詳細](docs/delete_empty_dirs.md) |
+| [list_folder_structure.ksh](src/list_folder_structure.ksh) | 指定フォルダー配下のフォルダー構造を調査し、フルパスのリストとして保存 | [詳細](docs/list_folder_structure.md) |
 
 ## 使い方の概要
 
